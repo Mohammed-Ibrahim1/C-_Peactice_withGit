@@ -1,13 +1,1 @@
-﻿Rabee
-Rabee 
-Rabee
-Mohammed 
-Mohammed 
-Mohammed 
-Mohammed 
-Mohammed 
-Lamar
-Lamar
-Lamar
-Lamar
-Lamar
+﻿Console.WriteLine("Mohammed The Best\n");
