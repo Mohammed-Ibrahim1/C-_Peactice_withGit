@@ -1,13 +1,5 @@
-﻿Rabee
-Rabee 
-Rabee
-Mohammed 
-Mohammed 
-Mohammed 
-Mohammed 
-Mohammed 
-Lamar
-Lamar
-Lamar
-Lamar
-Lamar
+﻿Console.WriteLine("Lamar Ibrahim");
+Console.WriteLine("Lamar Ibrahim");
+Console.WriteLine("Lamar Ibrahim");
+Console.WriteLine("Lamar Ibrahim");
+Console.WriteLine("Lamar Ibrahim");
