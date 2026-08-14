@@ -11,8 +11,6 @@ Console.WriteLine("Hello, World from C# App! 010 ... 12");
 Console.WriteLine("Hello, World from C# App! 011");
 Console.WriteLine("Hello, World from C# App! 012");
 Console.WriteLine("Hello, World from C# App! 013");
-Console.WriteLine("Hello, World from C# App! 014");
-Console.WriteLine("Hello, World from C# App! 015");
 Console.WriteLine("Hello, World from C# App! 016");
 Console.WriteLine("Hello, World from C# App! 017");
 Console.WriteLine("Hello, World from C# App! 018");
